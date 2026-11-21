@@ -7,3 +7,7 @@ ado_repository_name: "MigrateFromADORepo"
 
 ado_url: ""  # e.g "https://dev.azure.com/your-org"
 
+# GitHub migration target configuration
+github_org: "samisinada"
+target_github_repo_name: "migrated-repo"
+
